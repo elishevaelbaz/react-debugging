@@ -9,7 +9,7 @@ Clone the directory and run
 
 Here is what is supposed to be a fully functional React App but... We are presented with some errors. Before you go ahead and fix them, discuss in groups your assumptions of what caused the bug and then use debugging tools (see below) where appropriate to confirm your assumptions. Use this opportunity to practice driving/navigating. Take turns.  
 
-This is what we are supposed to see when it is working properly:
+This is what we are supposed to see when it is working properly (images and names may be different):
 
 ![Sample Photo](sample.png)
 

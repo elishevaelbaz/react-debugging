@@ -8,10 +8,10 @@ export default class InstructorCard extends Component {
         <div class="ui card">
             <div class="image">
                 {/* the instructor image goes inside of the src */}
-                <img src={image_url} alt ={`${name}'s picture'`}/>
+                <img src={image_url} alt ={`${name}`}/>
             </div>
             <div class="content">
-                <a class="header">{name}</a>
+                <span class="header">{name}</span>
                 <div class="meta">
                     <span class="date">Hired in {hired}</span>
                 </div>

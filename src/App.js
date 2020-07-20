@@ -5,14 +5,14 @@ import Header from './Header'
 
 const mod4instructors = [
   {
-    name: "Eric Kim",
-    image_url: "https://ca.slack-edge.com/T02MD9XTF-U91CXSUN4-455dd3bdbbbf-512",
-    hired: 2018,
+    name: "Ian Hollander",
+    image_url: "https://ca.slack-edge.com/T02MD9XTF-UD54WDGFP-ca9e4fa7fa57-512",
+    hired: 2019,
     position: "Lead Instructor"
   },
   {
-    name: "Sylwia Vargas",
-    image_url: "https://ca.slack-edge.com/T02MD9XTF-UH9S72R6C-df7459bf1595-512",
+    name: "Jack Hilscher",
+    image_url: "https://ca.slack-edge.com/T02MD9XTF-UGTTQ1ZEJ-efb9f4228c5f-512",
     hired: 2019,
     position: "Software Engineering Coach"
   },
